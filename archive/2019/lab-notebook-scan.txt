@@ -1,0 +1,7 @@
+[Scanned notebook, OCR - confidence low]
+
+Bench 4: multimeter probe broken, replaced 14/08
+Bench 7: function generator reading drifts after 20 min
+Bench 9: power supply tripped twice, told technician
+Borrowed CRO from Lab 2 (returned? check)
+Note: Lab 2 register page missing for August
