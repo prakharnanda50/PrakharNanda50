@@ -1,0 +1,73 @@
+month,building,kwh,water_kl,paper_reams
+2023-01,Library,8040,122,28
+2023-01,Computing Block,12254,164,46
+2023-01,Academic Block 1,8013,98,27
+2023-01,Academic Block 2,7765,114,34
+2023-01,Hostel A,5404,92,17
+2023-01,Admin Block,4797,84,21
+2023-02,Library,8224,117,40
+2023-02,Computing Block,11745,136,66
+2023-02,Academic Block 1,8623,114,28
+2023-02,Academic Block 2,8304,112,36
+2023-02,Hostel A,6219,78,21
+2023-02,Admin Block,5434,82,19
+2023-03,Library,7763,134,39
+2023-03,Computing Block,12402,140,54
+2023-03,Academic Block 1,7485,124,32
+2023-03,Academic Block 2,8327,88,34
+2023-03,Hostel A,5773,95,30
+2023-03,Admin Block,5568,79,14
+2023-04,Library,8104,104,33
+2023-04,Computing Block,11107,173,34
+2023-04,Academic Block 1,7260,115,29
+2023-04,Academic Block 2,7883,99,20
+2023-04,Hostel A,6530,67,28
+2023-04,Admin Block,5141,77,20
+2023-05,Library,10252,136,42
+2023-05,Computing Block,12484,181,57
+2023-05,Academic Block 1,7494,120,24
+2023-05,Academic Block 2,6964,88,30
+2023-05,Hostel A,6070,97,33
+2023-05,Admin Block,4799,68,30
+2023-06,Library,8966,118,49
+2023-06,Computing Block,10746,141,55
+2023-06,Academic Block 1,8336,95,33
+2023-06,Academic Block 2,8505,120,26
+2023-06,Hostel A,6406,71,27
+2023-06,Admin Block,5995,85,31
+2023-07,Library,7966,138,24
+2023-07,Computing Block,10586,129,39
+2023-07,Academic Block 1,8898,128,23
+2023-07,Academic Block 2,6812,91,33
+2023-07,Hostel A,5442,71,20
+2023-07,Admin Block,5062,63,16
+2023-08,Library,9305,138,29
+2023-08,Computing Block,11438,130,43
+2023-08,Academic Block 1,8449,118,43
+2023-08,Academic Block 2,6799,91,30
+2023-08,Hostel A,6371,86,16
+2023-08,Admin Block,5028,67,24
+2023-09,Library,8645,107,36
+2023-09,Computing Block,12612,179,47
+2023-09,Academic Block 1,9077,95,40
+2023-09,Academic Block 2,8027,86,39
+2023-09,Hostel A,6164,92,28
+2023-09,Admin Block,6195,78,28
+2023-10,Library,7940,108,41
+2023-10,Computing Block,10044,178,53
+2023-10,Academic Block 1,8918,103,31
+2023-10,Academic Block 2,7390,101,34
+2023-10,Hostel A,6005,68,20
+2023-10,Admin Block,5998,58,26
+2023-11,Library,9144,130,36
+2023-11,Computing Block,10597,148,56
+2023-11,Academic Block 1,8952,91,34
+2023-11,Academic Block 2,7746,108,30
+2023-11,Hostel A,6655,76,21
+2023-11,Admin Block,5580,59,18
+2023-12,Library,9758,115,47
+2023-12,Computing Block,11952,183,62
+2023-12,Academic Block 1,9025,121,29
+2023-12,Academic Block 2,7486,114,39
+2023-12,Hostel A,6260,83,17
+2023-12,Admin Block,6079,63,25
