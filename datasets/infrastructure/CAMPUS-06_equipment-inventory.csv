@@ -1,0 +1,41 @@
+asset_id,equipment,lab,status,last_serviced,condition
+LB-001,Bench power supply,Lab 4,in service,2025-05-28,fair
+LB-002,Development board,Lab 1,in service,2024-05-21,good
+LB-003,Oscilloscope,Lab 4,in service,2024-07-28,good
+LB-004,Development board,Lab 2,in service,2023-01-11,fair
+LB-005,Development board,Lab 4,unaccounted,2025-10-21,poor
+LB-006,Function generator,Lab 1,in service,2024-09-09,good
+LB-007,Development board,Lab 1,in service,2023-11-20,poor
+LB-008,Function generator,Lab 2,in service,2023-10-16,poor
+LB-009,Development board,Lab 4,unaccounted,2025-03-15,fair
+LB-010,Multimeter,Lab 4,in service,2024-08-01,good
+LB-011,Logic analyser,Lab 1,in service,2024-06-24,poor
+LB-012,Multimeter,Lab 2,in service,2023-06-07,good
+LB-013,Soldering station,Lab 4,in service,2024-09-12,poor
+LB-014,Function generator,Lab 2,in service,2025-06-26,poor
+LB-015,Soldering station,Lab 4,in service,2025-01-26,fair
+LB-016,Oscilloscope,Lab 1,in service,2025-10-04,poor
+LB-017,Multimeter,Lab 1,in service,2025-06-25,poor
+LB-018,Logic analyser,Lab 1,needs attention,2025-08-09,good
+LB-019,Development board,Lab 1,needs attention,2025-03-27,fair
+LB-020,Logic analyser,Lab 1,in service,2024-06-28,poor
+LB-021,Logic analyser,Lab 2,unaccounted,2023-09-16,fair
+LB-022,Multimeter,Lab 2,in service,2023-07-25,poor
+LB-023,Function generator,Lab 1,in service,2023-05-05,poor
+LB-024,Development board,Lab 4,in service,2024-05-14,good
+LB-025,Oscilloscope,Lab 1,in service,2024-03-09,poor
+LB-026,Development board,Lab 4,unaccounted,2023-07-16,poor
+LB-027,Bench power supply,Lab 2,in service,2023-01-16,poor
+LB-028,Oscilloscope,Lab 1,in service,2024-10-05,fair
+LB-029,Development board,Lab 1,in service,2023-04-21,good
+LB-030,Oscilloscope,Lab 2,in service,2024-10-13,good
+LB-031,Oscilloscope,Lab 4,in service,2023-01-14,fair
+LB-032,Logic analyser,Lab 4,in service,2023-01-18,fair
+LB-033,Function generator,Lab 4,in service,2025-06-20,poor
+LB-034,Development board,Lab 4,in service,2023-07-04,poor
+LB-035,Development board,Lab 2,in service,2024-12-20,fair
+LB-036,Soldering station,Lab 4,in service,2025-06-08,fair
+LB-037,Logic analyser,Lab 1,in service,2023-07-20,poor
+LB-038,Oscilloscope,Lab 1,in service,2023-10-18,good
+LB-039,Bench power supply,Lab 2,needs attention,2023-03-19,poor
+LB-040,Development board,Lab 4,in service,2024-07-17,poor

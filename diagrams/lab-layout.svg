@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="210" viewBox="0 0 620 210" font-family="Helvetica,Arial,sans-serif">
+<rect width="620" height="210" fill="#fbfbf8"/>
+<text x="20" y="28" font-size="16" fill="#222">Lab layout (DG-06)</text><rect x="30" y="60" width="170" height="90" rx="6" fill="#ffffff" stroke="#33415c" stroke-width="1.5" /><text x="115" y="110" font-size="13" text-anchor="middle" fill="#222">Lab 1</text><rect x="220" y="60" width="170" height="90" rx="6" fill="#ffffff" stroke="#33415c" stroke-width="1.5" /><text x="305" y="110" font-size="13" text-anchor="middle" fill="#222">Lab 2</text><rect x="410" y="60" width="170" height="90" rx="6" fill="#ffffff" stroke="#33415c" stroke-width="1.5" /><text x="495" y="110" font-size="13" text-anchor="middle" fill="#222">Lab 4</text><text x="30" y="190" font-size="11" fill="#777">Pilot labs: Lab 1 and Lab 2. Technician office not shown.</text>
+</svg>
