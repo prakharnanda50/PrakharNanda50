@@ -5,8 +5,8 @@
 | Archive record | AR-01 |
 | Sponsoring department | Student Affairs / CSE |
 | Introduced | 2022-03-14 |
-| Status | Under Discussion |
-| Last activity | 2022-03-14 |
+| Status | Archived |
+| Last activity | 2024-02-21 |
 
 ## Background
 
@@ -34,3 +34,4 @@ Build a localized web/mobile platform that connects juniors with senior mentors,
 ## Revision log
 
 - 2022-03-14 - Submitted to the committee; status set to Under Discussion (intake register).
+- 2024-02-21 - Status changed: Under Discussion -> Archived (MN-08).

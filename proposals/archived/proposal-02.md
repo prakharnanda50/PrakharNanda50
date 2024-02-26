@@ -5,8 +5,8 @@
 | Archive record | AR-02 |
 | Sponsoring department | Environment Cell / EEE |
 | Introduced | 2022-04-06 |
-| Status | Under Discussion |
-| Last activity | 2022-04-06 |
+| Status | Archived |
+| Last activity | 2024-02-21 |
 
 ## Background
 
@@ -32,3 +32,4 @@ Build a platform that helps the college monitor and reduce its environmental foo
 ## Revision log
 
 - 2022-04-06 - Submitted to the committee; status set to Under Discussion (intake register).
+- 2024-02-21 - Status changed: Under Discussion -> Archived (MN-08).

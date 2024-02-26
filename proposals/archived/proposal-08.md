@@ -5,8 +5,8 @@
 | Archive record | AR-08 |
 | Sponsoring department | Registrar / CSE |
 | Introduced | 2023-07-05 |
-| Status | Under Discussion |
-| Last activity | 2023-07-05 |
+| Status | Merged |
+| Last activity | 2024-02-21 |
 
 ## Background
 
@@ -33,3 +33,4 @@ Build a secure academic credential verification platform with tamper-evident rec
 ## Revision log
 
 - 2023-07-05 - Submitted to the committee; status set to Under Discussion (intake register).
+- 2024-02-21 - Status changed: Under Discussion -> Merged into the Registrar's records digitisation programme, which is outside this archive (MN-08).

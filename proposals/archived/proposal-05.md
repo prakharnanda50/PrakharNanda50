@@ -34,3 +34,4 @@ Build a confidential student wellness platform. It must be positioned as a welln
 ## Revision log
 
 - 2022-09-07 - Submitted to the committee; status set to Under Discussion (intake register).
+- 2024-02-21 - Deferred to next meeting (MN-08).

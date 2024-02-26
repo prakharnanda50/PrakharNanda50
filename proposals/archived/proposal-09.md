@@ -38,3 +38,4 @@ Build an intelligent timetable scheduling platform able to generate optimized ac
 ## Revision log
 
 - 2023-09-13 - Submitted to the committee; status set to Under Discussion (intake register).
+- 2023-10-11 - First discussion; committee asked for departmental data (MN-07).

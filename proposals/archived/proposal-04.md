@@ -5,8 +5,8 @@
 | Archive record | AR-04 |
 | Sponsoring department | Student Affairs / Commerce |
 | Introduced | 2022-05-30 |
-| Status | Under Discussion |
-| Last activity | 2022-05-30 |
+| Status | Archived |
+| Last activity | 2024-02-21 |
 
 ## Background
 
@@ -34,3 +34,4 @@ Build a financial management application designed specifically for college stude
 ## Revision log
 
 - 2022-05-30 - Submitted to the committee; status set to Under Discussion (intake register).
+- 2024-02-21 - Status changed: Under Discussion -> Archived (MN-08).

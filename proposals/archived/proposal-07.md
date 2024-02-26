@@ -5,8 +5,8 @@
 | Archive record | AR-07 |
 | Sponsoring department | CSE |
 | Introduced | 2023-06-14 |
-| Status | Under Discussion |
-| Last activity | 2023-06-14 |
+| Status | Archived |
+| Last activity | 2024-02-21 |
 
 ## Background
 
@@ -33,3 +33,4 @@ Build a source-code analysis system for academic integrity. Output for AI-genera
 ## Revision log
 
 - 2023-06-14 - Submitted to the committee; status set to Under Discussion (intake register).
+- 2024-02-21 - Status changed: Under Discussion -> Archived (MN-08).

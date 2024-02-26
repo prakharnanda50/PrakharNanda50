@@ -5,8 +5,8 @@
 | Archive record | AR-10 |
 | Sponsoring department | Security / Health Centre |
 | Introduced | 2023-04-19 |
-| Status | Under Discussion |
-| Last activity | 2023-04-19 |
+| Status | Archived |
+| Last activity | 2024-02-21 |
 
 ## Background
 
@@ -34,3 +34,4 @@ Build a campus emergency coordination platform for students, staff, security and
 ## Revision log
 
 - 2023-04-19 - Submitted to the committee; status set to Under Discussion (intake register).
+- 2024-02-21 - Status changed: Under Discussion -> Archived (MN-08).

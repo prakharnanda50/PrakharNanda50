@@ -5,8 +5,8 @@
 | Archive record | AR-03 |
 | Sponsoring department | Facilities / Security |
 | Introduced | 2022-05-11 |
-| Status | Under Discussion |
-| Last activity | 2022-05-11 |
+| Status | Archived |
+| Last activity | 2024-02-21 |
 
 ## Background
 
@@ -33,3 +33,4 @@ Build a campus mobility system that helps students and staff find parking and tr
 ## Revision log
 
 - 2022-05-11 - Submitted to the committee; status set to Under Discussion (intake register).
+- 2024-02-21 - Status changed: Under Discussion -> Archived (MN-08).
