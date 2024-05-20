@@ -5,8 +5,8 @@
 | Archive record | AR-09 |
 | Sponsoring department | Academic Affairs / CSE / ECE / EEE |
 | Introduced | 2023-09-13 |
-| Status | Under Discussion |
-| Last activity | 2023-09-13 |
+| Status | Archived |
+| Last activity | 2024-05-15 |
 
 ## Background
 
@@ -39,3 +39,4 @@ Build an intelligent timetable scheduling platform able to generate optimized ac
 
 - 2023-09-13 - Submitted to the committee; status set to Under Discussion (intake register).
 - 2023-10-11 - First discussion; committee asked for departmental data (MN-07).
+- 2024-05-15 - Status changed: Under Discussion -> Archived (MN-09). No faculty time available to run a pilot this year.
