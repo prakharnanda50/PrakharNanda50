@@ -13,3 +13,4 @@ Ref: SL-2024
 | 2024-02-21 | AR-10 | Under Discussion -> Archived | MN-08 |
 | 2024-05-15 | AR-05 | Under Discussion -> Withdrawn | MN-09 |
 | 2024-05-15 | AR-09 | Under Discussion -> Archived | MN-09 |
+| 2024-09-18 | AR-06 | Under Discussion -> Deferred | MN-10 |

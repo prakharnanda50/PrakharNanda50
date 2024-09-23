@@ -5,8 +5,8 @@
 | Archive record | AR-06 |
 | Sponsoring department | ECE / Central Instrumentation |
 | Introduced | 2023-03-08 |
-| Status | Under Discussion |
-| Last activity | 2023-03-08 |
+| Status | Deferred |
+| Last activity | 2024-09-18 |
 
 ## Background
 
@@ -34,3 +34,4 @@ Build a centralized laboratory equipment management platform, with low-cost sens
 ## Revision log
 
 - 2023-03-08 - Submitted to the committee; status set to Under Discussion (intake register).
+- 2024-09-18 - Status changed: Under Discussion -> Deferred until the lab refurbishment is complete (MN-10).
