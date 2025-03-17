@@ -6,7 +6,7 @@
 | Sponsoring department | Facilities / Security |
 | Introduced | 2022-05-11 |
 | Status | Archived |
-| Last activity | 2024-02-21 |
+| Last activity | 2025-03-12 |
 
 ## Background
 
@@ -34,3 +34,4 @@ Build a campus mobility system that helps students and staff find parking and tr
 
 - 2022-05-11 - Submitted to the committee; status set to Under Discussion (intake register).
 - 2024-02-21 - Status changed: Under Discussion -> Archived (MN-08).
+- 2025-03-12 - Budget line resubmitted by Facilities; noted, no action taken (MN-11).
