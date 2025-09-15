@@ -1,0 +1,21 @@
+issue,frequency,department,respondents
+timetable conflict,high,CSE,212
+room allocation,medium,ECE,148
+lab availability,high,CSE,212
+faculty clash,high,EEE,131
+timetable conflict,high,ECE,148
+timetable conflict,high,EEE,131
+faculty clash,high,CSE,212
+faculty clash,medium,ECE,148
+room allocation,high,EEE,131
+lab availability,medium,ECE,148
+lab availability,high,EEE,131
+class changes not notified,high,CSE,212
+class changes not notified,medium,ECE,148
+parking congestion,high,CSE,212
+parking congestion,high,ECE,148
+parking congestion,medium,EEE,131
+library seating,medium,CSE,212
+wifi coverage,medium,ECE,148
+mess queue,high,EEE,131
+certificate turnaround,low,CSE,212

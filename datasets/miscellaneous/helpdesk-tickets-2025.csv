@@ -1,0 +1,91 @@
+ticket_id,date,category,dept,status
+HD-2001,2025-08-18,faculty slot conflict,MATH,open
+HD-2002,2025-10-25,room unavailable,ECE,closed
+HD-2003,2025-08-26,faculty slot conflict,CSE,closed
+HD-2004,2025-08-16,faculty slot conflict,EEE,closed
+HD-2005,2025-08-03,timetable clash,MATH,closed
+HD-2006,2025-11-09,lab access,ADMIN,closed
+HD-2007,2025-10-09,wifi,ECE,closed
+HD-2008,2025-10-05,timetable clash,ECE,closed
+HD-2009,2025-09-16,lab access,ADMIN,closed
+HD-2010,2025-11-07,timetable clash,MATH,open
+HD-2011,2025-08-12,timetable clash,EEE,closed
+HD-2012,2025-08-25,timetable clash,MATH,closed
+HD-2013,2025-08-15,wifi,ADMIN,closed
+HD-2014,2025-11-07,projector fault,CSE,open
+HD-2015,2025-09-10,certificate request,EEE,closed
+HD-2016,2025-11-07,projector fault,MATH,closed
+HD-2017,2025-08-14,lab access,MATH,open
+HD-2018,2025-10-05,lab access,CSE,closed
+HD-2019,2025-11-24,parking pass,MATH,open
+HD-2020,2025-08-27,wifi,EEE,closed
+HD-2021,2025-11-03,room unavailable,EEE,closed
+HD-2022,2025-10-19,timetable clash,ECE,open
+HD-2023,2025-08-22,lab access,CSE,closed
+HD-2024,2025-10-16,room unavailable,CSE,open
+HD-2025,2025-11-03,parking pass,ADMIN,closed
+HD-2026,2025-10-03,projector fault,MATH,closed
+HD-2027,2025-09-05,timetable clash,MATH,open
+HD-2028,2025-09-04,timetable clash,EEE,closed
+HD-2029,2025-08-09,wifi,ECE,closed
+HD-2030,2025-11-06,room unavailable,ECE,closed
+HD-2031,2025-09-02,parking pass,ADMIN,closed
+HD-2032,2025-08-05,faculty slot conflict,ADMIN,closed
+HD-2033,2025-08-28,projector fault,ECE,open
+HD-2034,2025-11-03,lab access,ECE,open
+HD-2035,2025-11-21,timetable clash,ADMIN,open
+HD-2036,2025-09-10,timetable clash,ECE,closed
+HD-2037,2025-08-15,faculty slot conflict,ECE,closed
+HD-2038,2025-11-06,room unavailable,ECE,closed
+HD-2039,2025-09-06,parking pass,CSE,open
+HD-2040,2025-09-21,wifi,CSE,closed
+HD-2041,2025-11-05,timetable clash,EEE,closed
+HD-2042,2025-08-14,projector fault,ADMIN,closed
+HD-2043,2025-09-23,wifi,ADMIN,closed
+HD-2044,2025-10-25,faculty slot conflict,MATH,closed
+HD-2045,2025-09-03,faculty slot conflict,EEE,open
+HD-2046,2025-11-04,certificate request,ECE,closed
+HD-2047,2025-09-04,timetable clash,MATH,closed
+HD-2048,2025-09-21,faculty slot conflict,MATH,closed
+HD-2049,2025-08-05,projector fault,MATH,closed
+HD-2050,2025-11-01,room unavailable,ADMIN,closed
+HD-2051,2025-08-22,faculty slot conflict,EEE,closed
+HD-2052,2025-08-26,timetable clash,CSE,closed
+HD-2053,2025-11-07,room unavailable,ECE,open
+HD-2054,2025-08-27,room unavailable,MATH,closed
+HD-2055,2025-10-06,faculty slot conflict,ECE,closed
+HD-2056,2025-11-09,room unavailable,EEE,closed
+HD-2057,2025-11-24,projector fault,EEE,closed
+HD-2058,2025-08-28,room unavailable,CSE,closed
+HD-2059,2025-10-14,certificate request,EEE,closed
+HD-2060,2025-09-24,faculty slot conflict,CSE,closed
+HD-2061,2025-08-14,room unavailable,ECE,closed
+HD-2062,2025-11-24,projector fault,ECE,closed
+HD-2063,2025-09-14,room unavailable,EEE,open
+HD-2064,2025-10-04,parking pass,ECE,open
+HD-2065,2025-10-16,timetable clash,MATH,open
+HD-2066,2025-11-25,wifi,MATH,closed
+HD-2067,2025-08-10,parking pass,CSE,closed
+HD-2068,2025-11-08,room unavailable,ECE,closed
+HD-2069,2025-09-10,wifi,MATH,open
+HD-2070,2025-11-14,room unavailable,CSE,closed
+HD-2071,2025-09-07,timetable clash,EEE,closed
+HD-2072,2025-10-09,timetable clash,CSE,open
+HD-2073,2025-08-21,certificate request,EEE,open
+HD-2074,2025-11-11,timetable clash,CSE,closed
+HD-2075,2025-11-03,faculty slot conflict,CSE,open
+HD-2076,2025-09-17,room unavailable,CSE,closed
+HD-2077,2025-08-26,projector fault,CSE,open
+HD-2078,2025-10-11,wifi,ECE,closed
+HD-2079,2025-09-28,projector fault,CSE,closed
+HD-2080,2025-11-12,parking pass,CSE,closed
+HD-2081,2025-08-26,timetable clash,ECE,open
+HD-2082,2025-09-06,parking pass,ADMIN,closed
+HD-2083,2025-11-28,timetable clash,ADMIN,open
+HD-2084,2025-11-07,faculty slot conflict,ECE,open
+HD-2085,2025-11-23,room unavailable,ECE,open
+HD-2086,2025-10-21,parking pass,MATH,closed
+HD-2087,2025-11-21,timetable clash,MATH,open
+HD-2088,2025-09-08,certificate request,EEE,open
+HD-2089,2025-08-25,room unavailable,CSE,closed
+HD-2090,2025-09-23,timetable clash,ECE,closed
