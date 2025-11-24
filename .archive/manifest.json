@@ -1,0 +1,10 @@
+{
+  "archive": "campus-innovation",
+  "id_format": {
+    "current": "AR-NN",
+    "legacy": "ANN"
+  },
+  "files_exported": "2026-09",
+  "note": "access-log.csv lists monthly opens of each record page since June 2025",
+  "review_queue": ".review/queue.yml"
+}

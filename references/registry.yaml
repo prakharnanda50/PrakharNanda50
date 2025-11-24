@@ -1,0 +1,73 @@
+# Registry export, sorted by last_modified (most recent first)
+exported: 2026-09
+records:
+  - id: AR-09
+    title: Dynamic Timetable Coordination
+    introduced: 2023-09-13
+    status: Revisit
+    last_modified: 2026-05-26
+    queue: pending
+    meetings: [MN-07, MN-09, MN-14, MN-15, MN-16, MN-17, MN-18]
+    datasets: [CAMPUS-09A, CAMPUS-09B, CAMPUS-09C, CAMPUS-09D]
+    diagrams: [DG-04, DG-08]
+  - id: AR-06
+    title: Laboratory Equipment Access and Condition Tracking
+    introduced: 2023-03-08
+    status: Deferred
+    last_modified: 2025-06-30
+    meetings: [MN-05, MN-10, MN-12]
+    datasets: [CAMPUS-06]
+    diagrams: [DG-06]
+  - id: AR-03
+    title: Campus Vehicle and Shuttle Coordination
+    introduced: 2022-05-11
+    status: Archived
+    last_modified: 2025-03-17
+    meetings: [MN-04, MN-08, MN-11, MN-16]
+    datasets: [CAMPUS-03]
+    diagrams: [DG-05]
+  - id: AR-05
+    title: Student Stress and Wellbeing Support Service
+    introduced: 2022-09-07
+    status: Withdrawn
+    last_modified: 2024-05-20
+    meetings: [MN-03, MN-09]
+  - id: AR-01
+    title: Peer Guidance and Shared Resources Initiative
+    introduced: 2022-03-14
+    status: Archived
+    last_modified: 2024-02-26
+    meetings: [MN-02, MN-08]
+  - id: AR-02
+    title: Campus Environmental Footprint Monitoring
+    introduced: 2022-04-06
+    status: Archived
+    last_modified: 2024-02-26
+    meetings: [MN-03, MN-08]
+    datasets: [CAMPUS-02]
+  - id: AR-04
+    title: Student Money Management Support
+    introduced: 2022-05-30
+    status: Archived
+    last_modified: 2024-02-26
+    meetings: [MN-02, MN-08]
+  - id: AR-07
+    title: Source-Code Originality Review
+    introduced: 2023-06-14
+    status: Archived
+    last_modified: 2024-02-26
+    meetings: [MN-06, MN-08]
+  - id: AR-08
+    title: Verifiable Academic Credentials
+    introduced: 2023-07-05
+    status: Merged
+    last_modified: 2024-02-26
+    meetings: [MN-06, MN-08]
+    datasets: [CAMPUS-08]
+  - id: AR-10
+    title: Campus Emergency Coordination
+    introduced: 2023-04-19
+    status: Archived
+    last_modified: 2024-02-26
+    meetings: [MN-05, MN-08, MN-16]
+    diagrams: [DG-07]
