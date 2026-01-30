@@ -1,0 +1,31 @@
+room_id,room_type,capacity,weekly_slots,slots_used,double_booked_slots
+AB1-101,tutorial room,40,36,30,0
+AB1-202,tutorial room,40,36,25,0
+AB1-303,lecture hall,150,36,32,2
+AB1-104,lecture hall,150,36,28,2
+AB1-205,seminar room,60,36,22,0
+AB1-306,lecture hall,90,36,27,4
+AB1-107,lecture hall,120,36,29,1
+AB1-208,lecture hall,150,36,28,1
+AB1-309,lecture hall,120,36,26,2
+AB1-110,lecture hall,120,36,28,4
+AB1-211,seminar room,60,36,28,2
+AB1-312,lecture hall,120,36,24,4
+AB2-101,tutorial room,40,36,24,0
+AB2-202,tutorial room,40,36,33,2
+AB2-303,lecture hall,120,36,23,3
+AB2-104,tutorial room,40,36,25,4
+AB2-205,tutorial room,40,36,27,1
+AB2-306,lecture hall,120,36,25,1
+AB2-107,tutorial room,40,36,23,3
+AB2-208,tutorial room,40,36,31,0
+AB2-309,seminar room,60,36,22,0
+AB2-110,seminar room,60,36,33,0
+LABS-101,laboratory,30,36,27,3
+LABS-202,laboratory,36,36,33,3
+LABS-103,laboratory,40,36,32,2
+LABS-204,laboratory,36,36,23,3
+LABS-105,laboratory,30,36,25,1
+LABS-206,laboratory,36,36,34,5
+LABS-107,laboratory,30,36,24,1
+LABS-208,laboratory,40,36,29,5

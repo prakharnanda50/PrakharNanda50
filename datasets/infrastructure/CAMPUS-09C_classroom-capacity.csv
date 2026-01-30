@@ -1,0 +1,31 @@
+room_id,capacity,room_type,special_equipment,projector,accessible
+AB1-101,40,tutorial room,none,yes,no
+AB1-202,40,tutorial room,none,yes,yes
+AB1-303,150,lecture hall,none,yes,yes
+AB1-104,150,lecture hall,none,yes,yes
+AB1-205,60,seminar room,none,yes,no
+AB1-306,90,lecture hall,none,yes,yes
+AB1-107,120,lecture hall,none,yes,yes
+AB1-208,150,lecture hall,none,yes,no
+AB1-309,120,lecture hall,none,yes,no
+AB1-110,120,lecture hall,none,yes,yes
+AB1-211,60,seminar room,none,yes,yes
+AB1-312,120,lecture hall,none,yes,no
+AB2-101,40,tutorial room,none,yes,yes
+AB2-202,40,tutorial room,none,yes,no
+AB2-303,120,lecture hall,none,yes,yes
+AB2-104,40,tutorial room,none,yes,yes
+AB2-205,40,tutorial room,none,yes,no
+AB2-306,120,lecture hall,none,yes,yes
+AB2-107,40,tutorial room,none,yes,yes
+AB2-208,40,tutorial room,none,yes,no
+AB2-309,60,seminar room,none,yes,yes
+AB2-110,60,seminar room,none,yes,no
+LABS-101,30,laboratory,none,yes,no
+LABS-202,36,laboratory,none,yes,no
+LABS-103,40,laboratory,electronics bench,yes,yes
+LABS-204,36,laboratory,network lab,yes,yes
+LABS-105,30,laboratory,network lab,yes,yes
+LABS-206,36,laboratory,none,yes,yes
+LABS-107,30,laboratory,network lab,yes,no
+LABS-208,40,laboratory,network lab,yes,yes
