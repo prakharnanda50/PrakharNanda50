@@ -1,0 +1,8 @@
+# Review queue - exported by the secretariat
+queue:
+  - review: R-09
+    record: A09
+    opened: 2026-02-16
+    state: pending
+    note: panel report awaited
+closed: []
