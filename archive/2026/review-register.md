@@ -8,3 +8,4 @@ the committee takes a decision or the record is archived again.
 | Review | Record | Reason | Opened | State |
 |---|---|---|---|---|
 | R-09 | AR-09 | Reopened after repeated complaints; panel to report | 2026-02-16 | Pending review |
+| R-03 | AR-03 | Shuttle pilot funding request | 2026-03-18 | Closed - declined |
