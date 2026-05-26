@@ -6,7 +6,7 @@
 | Sponsoring department | Academic Affairs / CSE / ECE / EEE |
 | Introduced | 2023-09-13 |
 | Status | Revisit |
-| Last activity | 2026-02-16 |
+| Last activity | 2026-05-20 |
 
 ## Background
 
@@ -42,3 +42,4 @@ Build an intelligent timetable scheduling platform able to generate optimized ac
 - 2024-05-15 - Status changed: Under Discussion -> Archived (MN-09). No faculty time available to run a pilot this year.
 - 2025-11-20 - Status changed: Archived -> Revisit (MN-14). Reopened after recurring timetable complaints from several departments.
 - 2026-02-16 - Placed in review queue; panel constituted (MN-15). Register entry R-09.
+- 2026-05-20 - Remains in review queue; panel report awaited (MN-17).
