@@ -4,3 +4,5 @@
 .DS_Store
 Thumbs.db
 scratch/
+
+# working papers are excluded from the index; see references/record-04-brief.md
