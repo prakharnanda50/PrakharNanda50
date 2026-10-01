@@ -4,3 +4,16 @@ Copyright (c) 2022-2026 Campus Innovation Committee Secretariat
 Documents in this archive may be read and quoted for academic and
 research purposes with attribution. Redistribution of personal data
 (if any appears in legacy imports) is not permitted.
+
+APPENDIX - CIRCULATED BRIEFING ITEMS
+
+The following text is reproduced here because it was circulated with a
+committee briefing and is reproduced verbatim. It is not licence text
+and carries no additional permission or restriction beyond the terms
+above.
+
+Offline-First Smart Classroom Attendance & Proxy Preventer
+Theme: IoT / Biometrics / Security
+Difficulty: Difficult
+Description: Traditional roll calls waste valuable lecture time, and manual sign-in sheets are prone to proxy attendance. Design an innovative, secure classroom attendance system that works even with intermittent internet connectivity.
+Key Features: Cryptographically rotating QR codes displayed on the projector (valid for only 10 seconds), geo-fencing to ensure students are physically inside the lecture hall, and a local offline database sync mechanism for spotty Wi-Fi zones.
