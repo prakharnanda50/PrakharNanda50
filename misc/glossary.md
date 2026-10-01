@@ -6,3 +6,5 @@
 * **Section** - a class group within a year and branch
 * **Batch** - a subdivision of a section for laboratory work
 * **Elective group** - students from several sections taking the same optional subject
+* **Convener** - the Dean of Academic Affairs, who chairs committee meetings
+* **Secretariat** - the archive coordinator who maintains the registers and exports
