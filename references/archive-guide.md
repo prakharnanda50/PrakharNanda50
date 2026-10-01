@@ -8,6 +8,7 @@
 * `meeting-notes/` - committee minutes
 * `datasets/` - data exports
 * `diagrams/`, `media/` - figures and images
+* `misc/` - uncategorised notes; contents are not indexed
 * `references/` - charter, numbering, registry export
 * `.archive/` - manifest and access log (dot-prefixed folder)
 * `.review/` - review queue listing (dot-prefixed folder)
