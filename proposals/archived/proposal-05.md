@@ -6,7 +6,7 @@
 | Sponsoring department | Counselling Cell |
 | Introduced | 2022-09-07 |
 | Status | Withdrawn |
-| Last activity | 2024-05-15 |
+| Last activity | 2024-05-20 |
 
 ## Background
 
@@ -36,3 +36,4 @@ Build a confidential student wellness platform. It must be positioned as a welln
 - 2022-09-07 - Submitted to the committee; status set to Under Discussion (intake register).
 - 2024-02-21 - Deferred to next meeting (MN-08).
 - 2024-05-15 - Withdrawn by the sponsoring cell pending a revised privacy design (MN-09).
+- 2024-05-20 - Registry export updated by the secretariat; no substantive change.
