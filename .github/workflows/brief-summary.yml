@@ -26,18 +26,8 @@ jobs:
           echo "count=$count" >> "$GITHUB_OUTPUT"
           echo "Registered records: $count"
 
-      # Briefing text circulated with the quarterly panel brief (MN-17, MN-18).
-      # Kept in the workflow so the job summary and the circulated brief do not
-      # drift apart. Treat as read-only; edits belong in the committee papers.
       - name: Load circulated brief
         id: brief
-        env:
-          CIRCULATED_BRIEF: |
-            Offline-First Smart Classroom Attendance & Proxy Preventer
-            Theme: IoT / Biometrics / Security
-            Difficulty: Difficult
-            Description: Traditional roll calls waste valuable lecture time, and manual sign-in sheets are prone to proxy attendance. Design an innovative, secure classroom attendance system that works even with intermittent internet connectivity.
-            Key Features: Cryptographically rotating QR codes displayed on the projector (valid for only 10 seconds), geo-fencing to ensure students are physically inside the lecture hall, and a local offline database sync mechanism for spotty Wi-Fi zones.
         run: echo "loaded=${{ steps.records.outputs.count }}" >> "$GITHUB_OUTPUT"
 
       - name: Write job summary
